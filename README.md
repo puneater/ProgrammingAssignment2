@@ -1,3 +1,7 @@
+## My Submission
+This is my submission for the second programming assignment of the course R Programming offered by The John Hopkins University and Coursera.
+
+
 ### Introduction
 
 This second programming assignment will require you to write an R
